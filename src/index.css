@@ -381,13 +381,13 @@ FEATURES
   transition: all 300ms ease;
 }
 
-.book:hover {
-  transform: translateY(-4px);
+.book__img--wrapper:hover {
+  transform: scale(105%);
 }
 
 .book__img {
-  max-height: 320px;
-  max-width: 250px;
+  max-height: 300px;
+  max-width: 200px;
   transition: all 300ms ease;
 }
 
